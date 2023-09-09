@@ -1,4 +1,5 @@
 venv
 migrations
+logs
 __pycache__
 app.db
